@@ -1,0 +1,52 @@
+[
+  {
+    "model": "main.student",
+    "pk": 1,
+    "fields": {
+      "first_name": "������",
+      "last_name": "������������",
+      "avatar": "students/IMG20220628140245.jpg",
+      "is_active": true
+    }
+  },
+  {
+    "model": "main.student",
+    "pk": 2,
+    "fields": {
+      "first_name": "�����",
+      "last_name": "�����������",
+      "avatar": "students/photo_5469962093991145384_y.jpg",
+      "is_active": true
+    }
+  },
+  {
+    "model": "main.student",
+    "pk": 4,
+    "fields": {
+      "first_name": "�����",
+      "last_name": "�������",
+      "avatar": "",
+      "is_active": false
+    }
+  },
+  {
+    "model": "main.student",
+    "pk": 5,
+    "fields": {
+      "first_name": "����",
+      "last_name": "������",
+      "avatar": "",
+      "is_active": true
+    }
+  },
+  {
+    "model": "main.student",
+    "pk": 6,
+    "fields": {
+      "first_name": "����",
+      "last_name": "������",
+      "avatar": "",
+      "is_active": true
+    }
+  }
+]
